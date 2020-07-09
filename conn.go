@@ -4,7 +4,7 @@ import (
 	"encoding"
 	"time"
 
-	"github.com/jsimonetti/rtnetlink/internal/unix"
+	"github.com/yurado/rtnetlink/internal/unix"
 
 	"github.com/mdlayher/netlink"
 )

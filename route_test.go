@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jsimonetti/rtnetlink/internal/unix"
+	"github.com/yurado/rtnetlink/internal/unix"
 )
 
 // Tests will only pass on little endian machines

@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jsimonetti/rtnetlink/internal/unix"
+	"github.com/yurado/rtnetlink/internal/unix"
 	"github.com/mdlayher/netlink/nlenc"
 )
 

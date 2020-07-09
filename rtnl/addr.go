@@ -3,7 +3,7 @@ package rtnl
 import (
 	"net"
 
-	"github.com/jsimonetti/rtnetlink/internal/unix"
+	"github.com/yurado/rtnetlink/internal/unix"
 
 	"github.com/jsimonetti/rtnetlink"
 )
